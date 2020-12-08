@@ -66,9 +66,9 @@
             "decimo paso":[
                 "10.",
                 "Y por ultimo ,rueda el alfajor por el coco para que queda pegado en el dulce de leche"
-            ]
-            "imagen resultado final de alfajor": imgNum5,
-        }
+            ],
+            "imagen resultado final de alfajor": imgNum5
+        },
         "agradecimiento":"espero que te halla gustado 😋🥰",
         "link que guia al canal de orginen":linkFinal
     }
